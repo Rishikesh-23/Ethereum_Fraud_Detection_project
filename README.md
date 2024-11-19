@@ -77,8 +77,8 @@ streamlit run app.py
 
 ### **9. Contributors**
 Rishikesh
-LinkedIn: www.linkedin.com/in/rishikesh-a12090285
-Email: rishikesh23@kgpian.iitkgp.ac.in
+- LinkedIn: www.linkedin.com/in/rishikesh-a12090285
+- Email: rishikesh23@kgpian.iitkgp.ac.in
 
 
 ### **10. License**
